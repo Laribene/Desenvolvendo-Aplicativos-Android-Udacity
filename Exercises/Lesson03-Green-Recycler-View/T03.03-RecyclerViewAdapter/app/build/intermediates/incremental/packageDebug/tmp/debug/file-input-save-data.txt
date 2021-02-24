@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Feb 24 09:48:26 BRT 2021
+0.baseType=DIRECTORY
+0.base=/home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

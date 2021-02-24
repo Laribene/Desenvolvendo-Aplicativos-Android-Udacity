@@ -1,0 +1,113 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml:17:1-35:12
+INJECTED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml:17:1-35:12
+INJECTED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml:17:1-35:12
+INJECTED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml:17:1-35:12
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/7306007fa13e0c43b743154caf24e20d/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.1.0.aar/3f02bda200baeb78126901bde21774c3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/19c89e0d599b3605804c272ffac657f2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/d4c121eb506a2aaa5879836797fd95c3/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/6b9053b7355a38dd61b5e3ba9fee5934/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/fd22a1b1d45418e026617e55de16d2d4/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/27ab9336c380a3b1257dea33eeb202b2/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/d04f20e11917ce799a3aaaed008f6927/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/41705b60a50f24921bd8a010a2aaeb2d/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/26186fe3999c41ce962b673e9402795d/AndroidManifest.xml:17:1-27:12
+INJECTED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml:17:1-35:12
+INJECTED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml:17:1-35:12
+INJECTED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml:17:1-35:12
+	package
+		ADDED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml:18:11-53
+		INJECTED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml
+		ADDED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml:17:1-35:12
+		INJECTED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml
+		ADDED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml:17:1-35:12
+		INJECTED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml:20:5-33:19
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/7306007fa13e0c43b743154caf24e20d/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/7306007fa13e0c43b743154caf24e20d/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/19c89e0d599b3605804c272ffac657f2/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/19c89e0d599b3605804c272ffac657f2/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/d4c121eb506a2aaa5879836797fd95c3/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/d4c121eb506a2aaa5879836797fd95c3/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/6b9053b7355a38dd61b5e3ba9fee5934/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/6b9053b7355a38dd61b5e3ba9fee5934/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/fd22a1b1d45418e026617e55de16d2d4/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/fd22a1b1d45418e026617e55de16d2d4/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/27ab9336c380a3b1257dea33eeb202b2/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/27ab9336c380a3b1257dea33eeb202b2/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/d04f20e11917ce799a3aaaed008f6927/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/d04f20e11917ce799a3aaaed008f6927/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/41705b60a50f24921bd8a010a2aaeb2d/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/41705b60a50f24921bd8a010a2aaeb2d/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/26186fe3999c41ce962b673e9402795d/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/26186fe3999c41ce962b673e9402795d/AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml:25:9-40
+activity#com.example.android.recyclerview.MainActivity
+ADDED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml:26:9-32:20
+	android:name
+		ADDED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml:26:19-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml:30:17-76
+	android:name
+		ADDED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml:30:27-74
+uses-sdk
+INJECTED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml
+INJECTED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/7306007fa13e0c43b743154caf24e20d/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/7306007fa13e0c43b743154caf24e20d/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.1.0.aar/3f02bda200baeb78126901bde21774c3/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.1.0.aar/3f02bda200baeb78126901bde21774c3/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/19c89e0d599b3605804c272ffac657f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/19c89e0d599b3605804c272ffac657f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/d4c121eb506a2aaa5879836797fd95c3/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/d4c121eb506a2aaa5879836797fd95c3/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/6b9053b7355a38dd61b5e3ba9fee5934/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/6b9053b7355a38dd61b5e3ba9fee5934/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/fd22a1b1d45418e026617e55de16d2d4/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/fd22a1b1d45418e026617e55de16d2d4/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/27ab9336c380a3b1257dea33eeb202b2/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/27ab9336c380a3b1257dea33eeb202b2/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/d04f20e11917ce799a3aaaed008f6927/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/d04f20e11917ce799a3aaaed008f6927/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/41705b60a50f24921bd8a010a2aaeb2d/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/41705b60a50f24921bd8a010a2aaeb2d/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/26186fe3999c41ce962b673e9402795d/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/26186fe3999c41ce962b673e9402795d/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml
+INJECTED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.0] /home/bene/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/7306007fa13e0c43b743154caf24e20d/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml
+		ADDED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml
+		ADDED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/src/main/AndroidManifest.xml

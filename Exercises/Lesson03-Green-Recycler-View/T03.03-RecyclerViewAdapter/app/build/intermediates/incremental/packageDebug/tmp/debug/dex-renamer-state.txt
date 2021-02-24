@@ -1,0 +1,4 @@
+#Wed Feb 24 09:48:26 BRT 2021
+base.0=/home/bene/Documents/Desenvolvendo-Aplicativos-Android-Udacity/Exercises/Lesson03-Green-Recycler-View/T03.03-RecyclerViewAdapter/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

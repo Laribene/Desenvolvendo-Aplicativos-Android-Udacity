@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/T03.03-RecyclerViewAdapter.iml" filepath="$PROJECT_DIR$/.idea/modules/T03.03-RecyclerViewAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/T03.03-RecyclerViewAdapter.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/T03.03-RecyclerViewAdapter.app.iml" />
+    </modules>
+  </component>
+</project>
